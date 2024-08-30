@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### Query DSL ###
-!**/src/main/generated/study/querydsl
+!**/src/main/generated/study/querydsl/
